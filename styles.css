@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(37, 114, 6);
+    font-size: 36px;
+    /* background-color: rgb(173, 17, 194); */
+}
+.pork {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(202, 22, 157);
+    text-align: left;
+    font-style: italic;
+}
